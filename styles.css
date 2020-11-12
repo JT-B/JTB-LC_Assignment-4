@@ -1,0 +1,32 @@
+body {background-color:grey}
+
+main {text-align:center}
+
+h1 {background-color:white;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 450px;
+  margin-left: 450px; 
+    }
+
+p {font-family:ariel; 
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px; 
+  text-align:center;}
+
+.Article {background-color:white}
+
+.headers {
+	padding-top:25px;
+	outline-color:teal;
+	outline-style:dotted;
+	 }
+
+#End {color:white; text-align:center; margin-top:75px}
+
+#edu {padding-bottom:75px}
+
+#vitek {padding-bottom:50px}
+
